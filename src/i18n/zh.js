@@ -83,5 +83,6 @@ export default {
     removeFavorite: '已取消收藏',
     noResults: '未找到匹配的提示词',
     loading: '加载中...'
+    
   }
 }
