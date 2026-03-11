@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aiprompthub.com/sitemap.xml
+
+# Disallow potential spam paths
+Disallow: /api/
+Disallow: /admin/
+Disallow: /private/
