@@ -4,7 +4,7 @@ import { resolve } from 'path'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/ai-prompt-tools/',
+  base: './',
   plugins: [vue()],
   resolve: {
     alias: {
